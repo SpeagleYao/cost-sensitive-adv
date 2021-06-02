@@ -5,6 +5,9 @@ __pycache__/
 *$py.class
 log_cifar10/
 cp_cifar10/
+robustbench/
+models/cifar10
+data/
 
 # C extensions
 *.so
