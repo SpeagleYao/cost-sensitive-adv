@@ -1,0 +1,99 @@
+Standard
+natural_acc:	 94.78 %
+robust _acc:	 0.0 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 4.2 %
+target2 to target1 nat att suc:	 5.3 %
+target1 to target2 rob att suc:	 100.0 %
+target2 to target1 rob att suc:	 100.0 %
+===================================================================
+
+Gowal2020Uncovering_28_10_extra
+natural_acc:	 89.48 %
+robust _acc:	 66.29 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 7.8 %
+target2 to target1 nat att suc:	 6.4 %
+target1 to target2 rob att suc:	 35.7 %
+target2 to target1 rob att suc:	 31.9 %
+===================================================================
+
+Rebuffi2021Fixing_28_10_cutmix_ddpm
+natural_acc:	 87.33 %
+robust _acc:	 64.2 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 11.6 %
+target2 to target1 nat att suc:	 10.6 %
+target1 to target2 rob att suc:	 33.9 %
+target2 to target1 rob att suc:	 31.5 %
+===================================================================
+
+Wu2020Adversarial_extra
+natural_acc:	 88.25 %
+robust _acc:	 63.7 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 7.9 %
+target2 to target1 nat att suc:	 7.5 %
+target1 to target2 rob att suc:	 35.8 %
+target2 to target1 rob att suc:	 30.6 %
+===================================================================
+
+Zhang2020Geometry
+natural_acc:	 89.36 %
+robust _acc:	 67.38 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 9.5 %
+target2 to target1 nat att suc:	 6.6 %
+target1 to target2 rob att suc:	 25.5 %
+target2 to target1 rob att suc:	 27.3 %
+===================================================================
+
+Carmon2019Unlabeled
+natural_acc:	 89.69 %
+robust _acc:	 63.51 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 8.5 %
+target2 to target1 nat att suc:	 6.8 %
+target1 to target2 rob att suc:	 40.5 %
+target2 to target1 rob att suc:	 35.8 %
+===================================================================
+
+Sehwag2020Hydra
+natural_acc:	 88.98 %
+robust _acc:	 61.49 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 8.6 %
+target2 to target1 nat att suc:	 6.1 %
+target1 to target2 rob att suc:	 41.9 %
+target2 to target1 rob att suc:	 39.2 %
+===================================================================
+
+Wang2020Improving
+natural_acc:	 87.5 %
+robust _acc:	 63.41 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 8.4 %
+target2 to target1 nat att suc:	 9.0 %
+target1 to target2 rob att suc:	 38.8 %
+target2 to target1 rob att suc:	 27.4 %
+===================================================================
+
+Hendrycks2019Using
+natural_acc:	 87.11 %
+robust _acc:	 58.83 %
+===================================================================
+target1 is 3: cat.	target2 is 5: dog.
+target1 to target2 nat att suc:	 9.0 %
+target2 to target1 nat att suc:	 6.1 %
+target1 to target2 rob att suc:	 33.7 %
+target2 to target1 rob att suc:	 32.3 %
+===================================================================
+
